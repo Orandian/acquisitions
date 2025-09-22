@@ -3,20 +3,20 @@ services:
     image: neondatabase/neon_local:latest
     container_name: acquisitions-neon-level
     ports:
-      - "5433:5433"
+      - '5433:5433'
     env_file:
       - .env.development
     volumes:
       - ./.neon_local/:/tmp/.neon_local
       - ./.git/HEAD:/tmp/.git/HEAD:ro,consistent
     healthcheck:
-      test: [ 'CMD', 'pg_isready', '-h', 'localhost', '-p', '5432', '-U', 'neon' ]
+      test: ['CMD', 'pg_isready', '-h', 'localhost', '-p', '5432', '-U', 'neon']
       interval: 5s
       timeout: 3s
       retries: 5
       start_period: 10s
     networks:
-        - acquisitions-dev
+      - acquisitions-dev
 
   app:
     build:

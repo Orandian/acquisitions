@@ -28,9 +28,8 @@ The development setup uses a Neon Local proxy container and the app container:
   - `app` service — runs the Express app with hot reload (`npm run dev`)
 
 1. Export Neon credentials for Neon Local (consult Neon Local docs):
-
-   - export NEON_API_KEY=...  # Neon API key to enable Neon Local features
-   - export NEON_PROJECT_ID=...  # Neon project ID
+   - export NEON_API_KEY=... # Neon API key to enable Neon Local features
+   - export NEON_PROJECT_ID=... # Neon project ID
    - Optional overrides (or update compose):
      - export NEON_DEFAULT_DATABASE=dbname
      - export NEON_DEFAULT_USER=user
@@ -38,19 +37,15 @@ The development setup uses a Neon Local proxy container and the app container:
      - export NEON_ENABLE_EPHEMERAL_BRANCHES=true
 
 2. Start services:
-
    - docker compose -f docker-compose.dev.yml up --build
 
 3. The app will be available at:
-
    - http://localhost:3000
 
 4. The app connects to Postgres via the Neon Local proxy at:
-
    - postgres://user:password@neon-local:5432/dbname
 
 5. Apply Drizzle migrations if needed (compose dev command attempts to run `npm run db:migrate` on startup). You can also run manually:
-
    - docker compose -f docker-compose.dev.yml exec app npm run db:migrate
 
 ### Ephemeral branches
@@ -62,7 +57,6 @@ Neon Local can automatically create ephemeral branches for development and testi
 Production uses only the app container. The database is Neon Cloud; no Neon Local proxy is started in prod.
 
 1. Set production environment variables (e.g., via your platform):
-
    - DATABASE_URL=postgres://...neon.tech... (include `sslmode=require` if needed)
    - JWT_SECRET=...
    - JWT_EXPIRATION=1d
@@ -70,7 +64,6 @@ Production uses only the app container. The database is Neon Cloud; no Neon Loca
    - PORT=3000
 
 2. Optionally, for local prod-like run:
-
    - docker compose -f docker-compose.prod.yml up --build -d
 
 3. The app listens on http://localhost:3000 and uses the Neon Cloud database.

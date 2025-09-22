@@ -159,7 +159,7 @@ const config = {
     '^#routes/(.*)$': '<rootDir>/src/routes/$1',
     '^#services/(.*)$': '<rootDir>/src/services/$1',
     '^#utils/(.*)$': '<rootDir>/src/utils/$1',
-    '^#validations/(.*)$': '<rootDir>/src/validations/$1'
+    '^#validations/(.*)$': '<rootDir>/src/validations/$1',
   },
   // Disable transforms; rely on native ESM via experimental-vm-modules
   transform: {},
