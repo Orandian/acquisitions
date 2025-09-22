@@ -4,7 +4,9 @@ export default {
   schema: './src/models/*.js',
   out: './drizzle',
   dialect: 'postgresql',
+  // Force drizzle-kit to use the Node 'pg' driver for migrations
+  driver: 'pg',
   dbCredentials: {
-    url: process.env.DATABASE_URL,
+    connectionString: process.env.DATABASE_URL,
   },
 };
