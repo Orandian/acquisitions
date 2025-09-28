@@ -9,6 +9,8 @@ const securityMiddleware = async (req, res, next) => {
     let limit;
     let message;
 
+    // this is just an example, adjust limits as needed
+
     switch (role) {
       case 'admin':
         limit = 20;

@@ -66,3 +66,352 @@
 {"level":"info","message":"::ffff:127.0.0.1 - - [22/Sep/2025:09:41:00 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
 {"level":"info","message":"::ffff:127.0.0.1 - - [22/Sep/2025:09:41:00 +0000] \"GET /api HTTP/1.1\" 200 28 \"-\" \"-\"","service":"acquisitions-api"}
 {"level":"info","message":"::ffff:127.0.0.1 - - [22/Sep/2025:09:41:00 +0000] \"GET /nonexistent HTTP/1.1\" 404 27 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User yannainghtwe@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: yannainghtwe@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:37:29 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 115 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:20 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:23 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:24 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:24 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:25 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:25 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:26 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:26 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:27 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:27 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:27 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:28 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:28 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:29 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:29 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:29 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:29 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:30 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:30 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:30 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:30 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:30 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:31 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:31 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:31 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:31 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:32 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:32 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:32 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:32 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:32 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:32 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:33 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:33 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:33 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:34 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:34 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:34 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:34 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:34 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:35 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:35 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:35 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:35 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:35 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:35 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:36 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:36 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:36 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:36 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:36 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:36 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:37 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:37 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:37 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:37 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:37 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:38 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:38 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:38 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:38 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:38 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:38 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:39 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:39 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:39 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:39 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:39 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:40 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:40 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:40 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:40 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:40 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:40 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:41 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:47 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:47 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:47 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:48 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:48 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:48 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:48 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:48 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:49 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:49 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:49 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:49 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:49 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:38:49 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:39:01 +0000] \"GET /api HTTP/1.1\" 200 28 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:39:01 +0000] \"GET /api HTTP/1.1\" 200 28 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:39:02 +0000] \"GET /api HTTP/1.1\" 200 28 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:39:02 +0000] \"GET /api HTTP/1.1\" 200 28 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:39:03 +0000] \"GET /api HTTP/1.1\" 200 28 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:39:03 +0000] \"GET /api HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:39:03 +0000] \"GET /api HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:39:03 +0000] \"GET /api HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:39:04 +0000] \"GET /api HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [24/Sep/2025:08:55:53 +0000] \"GET /json HTTP/1.1\" 404 27 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [24/Sep/2025:08:55:53 +0000] \"GET /json HTTP/1.1\" 404 27 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [24/Sep/2025:08:55:54 +0000] \"GET /json HTTP/1.1\" 404 27 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [24/Sep/2025:08:55:54 +0000] \"GET /json HTTP/1.1\" 404 27 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [24/Sep/2025:08:55:54 +0000] \"GET /json HTTP/1.1\" 404 27 \"-\" \"-\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/json","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [24/Sep/2025:08:55:54 +0000] \"GET /json HTTP/1.1\" 403 51 \"-\" \"-\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/json","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [24/Sep/2025:08:55:54 +0000] \"GET /json HTTP/1.1\" 403 51 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User yannainghtwe@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: yannainghtwe@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:08:56:12 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 115 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/json","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [24/Sep/2025:08:56:20 +0000] \"GET /json HTTP/1.1\" 403 51 \"-\" \"-\"","service":"acquisitions-api"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/json","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [24/Sep/2025:08:56:20 +0000] \"GET /json HTTP/1.1\" 403 51 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:04:06 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:04:36 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:05:07 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"error","message":"JWT verification failed: invalid signature","name":"JsonWebTokenError","service":"acquisitions-api","stack":"JsonWebTokenError: invalid signature\n    at /app/node_modules/jsonwebtoken/verify.js:171:19\n    at getSecret (/app/node_modules/jsonwebtoken/verify.js:97:14)\n    at module.exports [as verify] (/app/node_modules/jsonwebtoken/verify.js:101:10)\n    at Object.verify (file:///app/src/utils/jwt.js:18:18)\n    at authenticateToken (file:///app/src/middleware/auth.middleware.js:15:30)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)\n    at next (/app/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/app/node_modules/router/lib/route.js:117:3)\n    at handle (/app/node_modules/router/index.js:435:11)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)"}
+{"level":"error","message":"Authentication error: JWT verification failed","service":"acquisitions-api","stack":"Error: JWT verification failed\n    at Object.verify (file:///app/src/utils/jwt.js:21:13)\n    at authenticateToken (file:///app/src/middleware/auth.middleware.js:15:30)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)\n    at next (/app/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/app/node_modules/router/lib/route.js:117:3)\n    at handle (/app/node_modules/router/index.js:435:11)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)\n    at /app/node_modules/router/index.js:295:15\n    at processParams (/app/node_modules/router/index.js:582:12)\n    at next (/app/node_modules/router/index.js:291:5)"}
+{"level":"info","message":"::ffff:192.168.65.1 - - [28/Sep/2025:13:05:12 +0000] \"GET /api/users HTTP/1.1\" 500 73 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User yannainghtwe@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: yannainghtwe@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:192.168.65.1 - - [28/Sep/2025:13:05:23 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 115 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:05:37 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: yannainghtwe@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:192.168.65.1 - - [28/Sep/2025:13:05:41 +0000] \"GET /api/users HTTP/1.1\" 200 387 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:06:07 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:06:37 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:07:08 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:192.168.65.1 - - [28/Sep/2025:13:07:28 +0000] \"GET /api HTTP/1.1\" 200 28 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:192.168.65.1 - - [28/Sep/2025:13:07:31 +0000] \"GET /api HTTP/1.1\" 200 28 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:192.168.65.1 - - [28/Sep/2025:13:07:31 +0000] \"GET /api HTTP/1.1\" 200 28 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:192.168.65.1 - - [28/Sep/2025:13:07:31 +0000] \"GET /api HTTP/1.1\" 200 28 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::ffff:192.168.65.1","level":"warn","message":"Rate limit exceeded","path":"/api","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::ffff:192.168.65.1 - - [28/Sep/2025:13:07:31 +0000] \"GET /api HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:07:38 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"-\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:08:08 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"-\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:08:38 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:09:08 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:192.168.65.1 - - [28/Sep/2025:13:09:30 +0000] \"GET /api HTTP/1.1\" 200 28 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:09:39 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:10:09 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:10:39 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:11:09 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:11:40 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:12:10 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:12:40 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:13:10 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:13:40 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:14:11 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:14:41 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:15:11 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:15:41 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:16:12 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:16:42 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:17:12 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:17:43 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:18:13 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:18:44 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2025:13:19:14 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
